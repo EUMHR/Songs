@@ -1,0 +1,17 @@
+{
+  "albums": [
+    {
+      "id": "Songs",
+      "title": "Fav Songs",
+      "author": "EUMHR",
+      "cover": "https://github.com/EUMHR/Songs/blob/main/399ec748094239b2d32f0450a6e4de7c.png?raw=true",
+      "tracks": [
+        {
+          "title": "Dai Dai",
+          "artist": "Shakira",
+          "url": "https://github.com/EUMHR/Songs/raw/refs/heads/main/Dai%20Dai.ogg"
+        }
+      ]
+    }
+  ]
+}
