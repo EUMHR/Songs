@@ -1,17 +1,19 @@
 {
-  "albums": [
+  "schema": 1,
+  "repository": {
+    "id": "eumhr_songs",
+    "name": "EUMHR Songs Repository"
+  },
+  "packs": [
     {
-      "id": "Songs",
-      "title": "Fav Songs",
-      "author": "EUMHR",
-      "cover": "https://github.com/EUMHR/Songs/blob/main/399ec748094239b2d32f0450a6e4de7c.png?raw=true",
-      "tracks": [
-        {
-          "title": "Dai Dai",
-          "artist": "Shakira",
-          "url": "https://github.com/EUMHR/Songs/raw/refs/heads/main/Dai%20Dai.ogg"
-        }
-      ]
+      "id": "eumhr:fav_songs",
+      "name": "Fav Songs",
+      "description": "Fav Songs by EUMHR",
+      "version": "1.0.0",
+      "url": "https://github.com/EUMHR/Songs/raw/refs/heads/main/FavSongs.zip",
+      "sha256": "",
+      "size": 0,
+      "icon": "https://github.com/EUMHR/Songs/blob/main/399ec748094239b2d32f0450a6e4de7c.png?raw=true"
     }
   ]
 }
